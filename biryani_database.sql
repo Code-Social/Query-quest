@@ -1,7 +1,7 @@
 -- Project 3 - Biryani Database Assignment
 -- File: biryani_database.sql
 -- Name: Sree Sai Vaishnavi Mahendra
--- Date: July 2025
+-- Date: 12th July 2025
 
 -- setting up the database first
 create database if not exists biryani_db;
